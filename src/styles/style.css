@@ -1,0 +1,28 @@
+/* @import "clublist.css"; */
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    font-size: 20px;
+    background-color: #f1f3f8;
+}
+
+main {
+    width: 100%;
+    max-width: 1000px;
+    margin: 32px auto;
+}
+
+meal-list {
+    display: block;
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+ }
